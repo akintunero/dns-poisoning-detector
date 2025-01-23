@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="dns-poisoning-detector",
-    version="0.1.1",
+    version="1.0",
     packages=find_packages(),
     install_requires=[
         "scapy",
