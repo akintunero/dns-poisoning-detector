@@ -69,14 +69,6 @@ To contribute to the project:
 - ReportLab: For PDF report generation
 - PyYAML: For configuration file parsing
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Disclaimer
-
-This tool is for educational and professional use only. Always obtain proper authorization before monitoring network traffic on systems you do not own or have explicit permission to test.
-
 
 ## Extending the Tool
 
@@ -109,4 +101,8 @@ For feature requests or bug reports, please open an issue on the GitHub reposito
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+
+This tool is for educational and professional use only. Always obtain proper authorization before monitoring network traffic on systems you do not own or have explicit permission to test.
